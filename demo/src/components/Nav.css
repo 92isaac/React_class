@@ -1,0 +1,47 @@
+header{
+    background-color: #562900;
+    width: 100%;
+    height: 65px;
+   
+    
+}
+
+h1 .logo{
+  text-decoration: none;
+  list-style: none;
+  color: white;
+  /* margin: 20px; */
+}
+
+ 
+ul{
+    margin: 0;
+    padding: 0;
+}
+
+
+li{
+  display: inline;
+  margin-right: 30px;
+  float: left;
+}
+
+nav{
+  float: right;
+  margin-top: -20px;
+  
+} 
+
+
+ 
+.links{
+    color: white;
+    text-decoration: none;
+}
+
+button{
+    color: #e5e5e5;
+    background-color: #562900;
+    border: 0px;
+    /* padding: 5px 40px;  */
+ }  
